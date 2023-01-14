@@ -1,5 +1,7 @@
 ﻿# Contributors
 <!-- prettier-ignore-start -->
+
+- [Chandrashekhar Singh Mourya](https://github.com/Singh-csm)
 - [Nishant Wankhade](https://github.com/NishantWankhade)
 - [CyberVarun](https://github.com/CyberVarun)
 - [Dafa Armanto](https://github.com/dafaarmanto)
